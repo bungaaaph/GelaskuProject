@@ -1,0 +1,6 @@
+class Hello{
+    public static void main(String[] args){
+	System.out.println("Project Jenkins dan Github");
+	System.out.println("Bunga dan Ghifari: Aplikasi 2022");
+   }
+}
